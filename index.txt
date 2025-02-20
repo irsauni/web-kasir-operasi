@@ -1,2 +1,3 @@
 membuat file index
 menambah fitur login
+hapus fitur login dan menambah fitur sign up
